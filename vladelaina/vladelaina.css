@@ -499,7 +499,7 @@ li.md-list-item {
   top: 35px; /* 上边距 35px */
   position: absolute; /* 绝对定位 */
   border-left: 0.5px solid #d6d6d6; /* 左边框为 0.5px 实线，颜色 #d6d6d6 */
-  left: -14.5px; /* 左边距 -14.5px */
+  left: -17.5px; /* 左边距 -16.5px */
 }
 
 
